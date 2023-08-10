@@ -1,7 +1,6 @@
-# YoutubeDownloader version French
+# YoutubeDownloader
 
 [![Statut](https://img.shields.io/badge/statut-maintenance-ffd700.svg)](https://github.com/Tyrrrz/.github/blob/master/docs/project-status.md)
-[![Fabriqué en Ukraine](https://img.shields.io/badge/fabriqué_en-ukraine-ffd700.svg?labelColor=0057b7)](https://tyrrrz.me/ukraine)
 [![Construction](https://img.shields.io/github/actions/workflow/status/Tyrrrz/YoutubeDownloader/main.yml?branch=master)](https://github.com/Tyrrrz/YoutubeDownloader/actions)
 [![Chaine youtube de danbenba](https://img.shields.io/badge/Youtube%20danbenba-%2F?logo=youtube&logoColor=css&color=red&link=https%3A%2F%2Fwww.youtube.com%2F%40danbenba)](https://www.youtube.com/@danbenba/)
 [![Version](https://img.shields.io/github/release/Tyrrrz/YoutubeDownloader.svg)](https://github.com/danbenba/YoutubeDownloader/releases)
