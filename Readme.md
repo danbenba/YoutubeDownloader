@@ -11,7 +11,7 @@
 Tableau :
     Ligne :
         Colonne :
-            Largeur="99999" Alignement="centre">Le développement de ce projet est entièrement financé par la communauté. <b><a href="https://tyrrrz.me/donate">Envisagez de faire un don pour soutenir !</a></b></td>
+            Le redeveloppement de ce projet à été très difficile. <b><a href="(https://www.youtube.com/@danbenba">Envisagez de vous abonnez à ma chaine youtube !</a></b></td>
         </tr>
     </table>
 
@@ -25,7 +25,7 @@ Vous pouvez copier-coller l'URL de n'importe quelle vidéo, playlist ou chaîne 
 Il prend également en charge la recherche par mots-clés, ce qui est utile si vous voulez rechercher et télécharger rapidement des vidéos.
 
 > **Note**:
-> Cette application utilise [**YoutubeExplode**](https://github.com/Tyrrrz/YoutubeExplode) en interne pour interagir avec YouTube.
+> Cette application utilise [**YoutubeExplode**](https://github.com/Tyrrrz/YoutubeExplode) (développer par Tyrrrz) en interne pour interagir avec YouTube.
 
 > 📝 Vous voulez en savoir plus sur le fonctionnement interne de YouTube ?
 > [Lisez cet article](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited).
@@ -43,7 +43,7 @@ Pour en savoir plus sur la guerre et sur la manière dont vous pouvez aider, [cl
 
 Téléchargement
 
-- 🟢 **[Version stable](https://github.com/Tyrrrz/YoutubeDownloader/releases/latest)**
+- 🟢 **[Version stable](https://github.com/danbenba/YoutubeDownloader/releases/latest)**
 - 🟠 [Construction CI](https://github.com/Tyrrrz/YoutubeDownloader/actions/workflows/main.yml)
 
 Fonctionnalités
