@@ -16,7 +16,6 @@ Tableau :
     </table>
 
 Paragraphe :
-    Alignement="centre">
     <Image source="favicon.png" alt="Icône" />
     </Paragraphe>
 
