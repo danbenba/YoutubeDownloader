@@ -57,6 +57,6 @@ Fonctionnalités
 
 Captures d'écran
 
-![liste](.assets/list.png)
-![unique](.assets/single.png)
-![multiple](.assets/multiple.png)
+![liste](assets/list.png)
+![unique](assets/single.png)
+![multiple](assets/multiple.png)
