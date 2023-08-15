@@ -16,9 +16,6 @@ Tableau :
     </table>
 
 Paragraphe :
-    <Image source="assets/icon.png" alt="Icône" />
-    </Paragraphe>
-
 **YoutubeDownloader** est une application qui vous permet de télécharger des vidéos depuis YouTube.
 Vous pouvez copier-coller l'URL de n'importe quelle vidéo, playlist ou chaîne et la télécharger directement dans un format de votre choix.
 Il prend également en charge la recherche par mots-clés, ce qui est utile si vous voulez rechercher et télécharger rapidement des vidéos.
