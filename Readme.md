@@ -16,7 +16,7 @@ Tableau :
     </table>
 
 Paragraphe :
-    <Image source="https://github.com/danbenba/YoutubeDownloader/blob/main/favicon.png" alt="Icône" />
+    <Image source="assets/icon.png" alt="Icône" />
     </Paragraphe>
 
 **YoutubeDownloader** est une application qui vous permet de télécharger des vidéos depuis YouTube.
@@ -43,7 +43,7 @@ Pour en savoir plus sur la guerre et sur la manière dont vous pouvez aider, [cl
 Téléchargement
 
 - 🟢 **[Version stable](https://github.com/danbenba/YoutubeDownloader/releases/latest)**
-- 🟠 [Construction CI](https://github.com/Tyrrrz/YoutubeDownloader/actions/workflows/main.yml)
+- 🟠 [Construction CI En Anglais](https://github.com/Tyrrrz/YoutubeDownloader/actions/workflows/main.yml)
 
 Fonctionnalités
 
