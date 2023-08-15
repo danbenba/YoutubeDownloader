@@ -16,7 +16,7 @@ Tableau :
     </table>
 
 Paragraphe :
-    <Image source="favicon.png" alt="Icône" />
+    <Image source="/favicon.png" alt="Icône" />
     </Paragraphe>
 
 **YoutubeDownloader** est une application qui vous permet de télécharger des vidéos depuis YouTube.
